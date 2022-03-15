@@ -1,1 +1,1 @@
-# constellation_loss_face_recognition
+# Constellation Loss for Face Recognition
